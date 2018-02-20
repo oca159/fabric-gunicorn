@@ -28,7 +28,7 @@ setup(
     long_description=__doc__,
     py_modules=['fabric_gunicorn'],
     install_requires=[
-        'fabric'
+        'fabric3'
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
